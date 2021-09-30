@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <h3>📫 How to reach me: </h3>
 <p>
-    <a href="mailto:adjikuncoro.b@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="adjikun-bhangun" height="30" width="40" /></a>
+    <a href="mailto:adjikuncoro.b@gmail.com" target="blank">:e-mail:</a>
     <a href="https://www.linkedin.com/in/adji-kb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adji-kb" height="30" width="40" /></a>
 </p>
 <br>
