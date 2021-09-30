@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Adji</h1>
 <br>
-📫 How to reach me: adjikuncoro.b@gmail.com
+<h3>📫 How to reach me: adjikuncoro.b@gmail.com</h3>
 <br>
 <a href="https://www.linkedin.com/in/adji-kb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adjikun-bhangun" height="30" width="40" /></a>
 <br>
@@ -34,5 +34,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="inkscape" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="after-effects" width="40" height="40"/>
 </p>
