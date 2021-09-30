@@ -14,24 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-h1 {
-  color: blue;
-  font-family: verdana;
-  font-size: 300%;
-}
-.mail {
-  font-family: courier;
-  font-size: 150%;
-}
-</style>
+
 
 
 <h1 align="center">Hi 👋, I'm Adji</h1>
 <br>
 <h3>📫 How to reach me: </h3>
 <p>
-    <a class="mail" href="mailto:adjikuncoro.b@gmail.com" target="blank">:e-mail:</a>
+    <a style="font-size: 150%;" href="mailto:adjikuncoro.b@gmail.com" target="blank">:e-mail:</a>
     <a href="https://www.linkedin.com/in/adji-kb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adji-kb" height="30" width="40" /></a>
 </p>
 <br>
