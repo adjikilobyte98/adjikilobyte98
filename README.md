@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **adjikilobyte98/adjikilobyte98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<h1 align="center">Hi 👋, I'm Adji</h1>
+<br>
+📫 How to reach me: **adjikuncoro.b@gmail.com**
+<a href="https://www.linkedin.com/in/adji-kb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adjikun-bhangun" height="30" width="40" /></a>
