@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Adji</h1>
 <br>
-📫 How to reach me: **adjikuncoro.b@gmail.com**
+📫 How to reach me: *adjikuncoro.b@gmail.com*
+<br>
 <a href="https://www.linkedin.com/in/adji-kb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adjikun-bhangun" height="30" width="40" /></a>
